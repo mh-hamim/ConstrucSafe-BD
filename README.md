@@ -12,7 +12,7 @@
 
 **Upload a construction site photo → AI detects safety violations → Automatically mapped to Bangladesh laws, penalties & enforcement authorities**
 
-[Live Demo](https://construcsafe-bd.streamlit.app/) · [API Health Check](https://construcsafe-bd-production.up.railway.app/health) · [Report Bug](https://github.com/hamim00/ConstrucSafe-BD/issues)
+[Live Demo](https://construcsafe-bd.streamlit.app/) · [API Health Check](https://construcsafe-bd-production.up.railway.app/health) · [Report Bug](https://github.com/mh-hamim/ConstrucSafe-BD/issues)
 
 </div>
 
@@ -304,7 +304,7 @@ ConstrucSafe-BD/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hamim00/ConstrucSafe-BD.git
+git clone https://github.com/mh-hamim/ConstrucSafe-BD.git
 cd ConstrucSafe-BD
 ```
 
@@ -434,22 +434,22 @@ POST /api/v1/reports/generate
 ### Analysis Page — Violation Detection
 Upload a construction site photo and receive an instant safety compliance report with severity-rated violations, inline penalty summaries, and legal references.
 
-<!-- ![Analysis Page](docs/screenshots/analyze.png) -->
+![Analysis Page](docs/screenshots/analyze.png)
 
 ### Analysis Results — Detected Violations
 Violations sorted by severity (Critical → High → Medium → Low) with color-coded cards, penalty summaries, and expandable legal details.
 
-<!-- ![Analysis Results](docs/screenshots/results.png) -->
+![Analysis Results](docs/screenshots/results.png)
 
 ### Browse Laws — Violation Explorer
 Browse all 455 violation types with their legal references, visual indicators, enforcement authorities, and penalty details.
 
-<!-- ![Browse Laws](docs/screenshots/browse-laws.png) -->
+![Browse Laws](docs/screenshots/browse-laws.png)
 
 ### About Page — User Guide
 Comprehensive bilingual (English/Bengali) guide explaining the system, covered laws, penalty structure, and key contacts.
 
-<!-- ![About Page](docs/screenshots/about.png) -->
+![About Page](docs/screenshots/about.png)
 
 ---
 
@@ -516,6 +516,6 @@ The legal data referenced in this project is sourced from publicly available Ban
 
 **Built with 🇧🇩 for safer construction sites in Bangladesh**
 
-[Live Demo](https://construcsafe-bd.streamlit.app/) · [API](https://construcsafe-bd-production.up.railway.app/health) · [Issues](https://github.com/hamim00/ConstrucSafe-BD/issues)
+[Live Demo](https://construcsafe-bd.streamlit.app/) · [API](https://construcsafe-bd-production.up.railway.app/health) · [Issues](https://github.com/mh-hamim/ConstrucSafe-BD/issues)
 
 </div>
